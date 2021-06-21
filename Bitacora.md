@@ -21,3 +21,10 @@ dia 20/6/21
 Logre crear la funcion de Guardar Personajes
 
 ![image](https://user-images.githubusercontent.com/83445439/122707129-9b353100-d216-11eb-988e-9062686cf552.png)
+
+
+21/6/21
+
+Estoy trabajando en el menu de Agregar torneo 
+
+![4](https://user-images.githubusercontent.com/83445439/122821887-9f0a9700-d29a-11eb-8de4-5dfe9feadbf6.PNG)
