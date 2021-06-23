@@ -28,3 +28,12 @@ Logre crear la funcion de Guardar Personajes
 Estoy trabajando en el menu de Agregar torneo 
 
 ![4](https://user-images.githubusercontent.com/83445439/122821887-9f0a9700-d29a-11eb-8de4-5dfe9feadbf6.PNG)
+
+
+22/6/21 
+
+Actualemte estoy trabajando en la parte de eliminar torneo,Me hace falta la parte de Jugar
+
+![image](https://user-images.githubusercontent.com/83445439/123031372-70c3af00-d3a1-11eb-8df1-219c7366c88c.png)
+
+
