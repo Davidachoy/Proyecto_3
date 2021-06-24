@@ -43,3 +43,10 @@ Actualemte estoy trabajando en la parte de eliminar torneo,Me hace falta la part
 
 Estoy trabajando en la parte de jugar los torneos
 
+se termino el proyecto el 23/6/21
+
+lo ultimo que realice fue la parte de estadisticas la cual esta incompleta
+
+![15](https://user-images.githubusercontent.com/83445439/123195462-72ef4180-d465-11eb-862f-e54a230a9762.PNG)
+
+
