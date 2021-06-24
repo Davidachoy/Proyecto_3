@@ -37,3 +37,9 @@ Actualemte estoy trabajando en la parte de eliminar torneo,Me hace falta la part
 ![image](https://user-images.githubusercontent.com/83445439/123031372-70c3af00-d3a1-11eb-8df1-219c7366c88c.png)
 
 
+23/6/21
+
+![image](https://user-images.githubusercontent.com/83445439/123189124-7df0a480-d45a-11eb-82fc-bc72e2f52d15.png)
+
+Estoy trabajando en la parte de jugar los torneos
+
